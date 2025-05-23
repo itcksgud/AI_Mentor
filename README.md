@@ -110,6 +110,7 @@ docker run -d \
   }
 }
 ```
+![image](https://github.com/user-attachments/assets/1f0114bd-5a07-4da7-bd00-6e41a1de511c)
 
 * 따라서 **`choices[0].message.content` 값이 출력 결과로 사용됨.**
 
