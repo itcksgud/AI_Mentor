@@ -170,6 +170,5 @@ docker run -d \
 ## ✅ 4.25 진행사항
 * pipeline 예제 코드 및 기본 코드 → [https://github.com/open-webui/pipelines/tree/main/examples]
 * flask 코드를 만들어 flask↔pipeline 연동 성공
-![image](https://github.com/user-attachments/assets/2128c206-e6b1-49d5-a8c3-53ea977a4fca)
 
 
